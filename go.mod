@@ -1,5 +1,3 @@
-module github.com/N-O-Z/godirwalk
+module github.com/karrick/godirwalk
 
 go 1.13
-
-require github.com/karrick/godirwalk v1.17.0
